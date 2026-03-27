@@ -13,6 +13,9 @@ function App() {
 					onClick={() => setCount(count => count + 1)}>
 					Count is {count}
 				</button>
+				<button>
+				  decrement
+				</button>
 			</section>
 		</>
 	);
